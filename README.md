@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! I'm Hadassa 👋  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=900&color=556B2F&width=700&lines=iOS+Developer;UX%2FUI+Design;Exploring+new+ideas;Sharing+knowledge)
 
-<!--
-**hadvtr/hadvtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who works with app development and UX/UI design, focusing on creating clear, intuitive, and user-friendly experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+- **Languages:** Swift, C, Python and Java  
+- **Tools:** Xcode, Git, VScode, Eclipse, Figma, Procreate, Notion and more 
+
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadassavitoriamiranda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadvtr@gmail.com)
